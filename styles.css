@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .banner{
-    background-image: url(/portfolio/Img/bg10.jpg);
+    background-image: url(../Img/bg10.jpg);
     color: #33100e;
     background-size: cover;
     background-repeat: no-repeat;
