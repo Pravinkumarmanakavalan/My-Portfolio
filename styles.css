@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-image: url(/portfolio/Img/bg10.jpg);
+    color: #33100e;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.skills-padding{
+    padding: 30px;
+}
+ul{
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+
+}
+ul li {
+     list-style: none;
+     margin: 0 15px;
+}
